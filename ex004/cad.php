@@ -13,6 +13,7 @@
     <main>
         <?php 
             var_dump($_POST);
+            
         ?>
     </main>
 </body>
